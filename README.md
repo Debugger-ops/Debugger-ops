@@ -24,7 +24,9 @@ I'm a passionate developer who loves to create and learn new technologies.
 - Email: vivek9to5@gamil.com
 
 ## 💡 Fun fact
-[Share an interesting fact about yourself]
+"I code like I’m assembling a puzzle—sometimes it’s messy, but when the pieces fit, it's a masterpiece."
+
+
 
 ---
 
