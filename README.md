@@ -13,8 +13,8 @@ I'm a passionate developer who loves to create and learn new technologies. [Brie
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
 
 ## 🌱 I'm currently learning
-- [Technology/Skill 1]
-- [Technology/Skill 2]
+- [C]
+- [C++]
 - [Technology/Skill 3]
 
 ## 💼 Projects
