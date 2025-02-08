@@ -1,5 +1,4 @@
 # 👋 Hi there! I'm Vivek Pant
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenkyY2o4ZThhdXkzamFmOHV3eWd2ZDQycGY2OGc3MHJra2J0bXJ5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif
 ## 🚀 About Me
 I'm a passionate developer who loves to create and learn new technologies.
 
