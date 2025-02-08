@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Vivek Pant
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6ZGM5NndyNWF4bmJnNTZncnBjcnV5cGx2ZHI4MHI5ZnU4anEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6ZGM5NndyNWF4bmJnNTZncnBjcnV5cGx2ZHI4MHI5ZnU4anEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" />
+</div>
 
 
 ## 🚀 About Me
