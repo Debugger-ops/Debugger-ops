@@ -32,7 +32,7 @@ I'm a passionate developer who loves to create and learn new technologies.
 
 ## 📫 How to reach me
 - LinkedIn: https://https/www.linkdin.com/vivekpant2004
-- Email: vivek9to5@gamil.com
+- Email: vivek9to5@gmail.com
 
 
 ## 💡 Fun fact
