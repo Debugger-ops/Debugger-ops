@@ -18,7 +18,7 @@ I'm a passionate developer who loves to create and learn new technologies.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Debugger-ops&icon=0&color=0)](https://visitcount.itsvg.in)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
