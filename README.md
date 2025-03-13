@@ -20,8 +20,8 @@ I'm a passionate developer who loves to create and learn new technologies.
 ---
 [![](https://visitcount.itsvg.in/api?id=Debugger-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://github-profile-trophy.vercel.app/?username=Debugger-ops&theme=juicyfresh)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debugger-ops&layout=compact&langs_count=7&theme=radical"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Debugger-ops&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 ## 🌱 I'm currently learning
 - to enhance my skills and create more Project
 
