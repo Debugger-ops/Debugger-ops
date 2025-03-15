@@ -2,7 +2,7 @@
 <div align="center ">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6ZGM5NndyNWF4bmJnNTZncnBjcnV5cGx2ZHI4MHI5ZnU4anEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width ="500" />
 </div>
-![GitHub Contributions](https://img.shields.io/github/contributors/Debugger-ops/Debugger-ops?color=brightgreen)
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Debugger-ops&theme=github)
 
 
 
