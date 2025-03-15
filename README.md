@@ -2,7 +2,7 @@
 <div align="center ">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl6ZGM5NndyNWF4bmJnNTZncnBjcnV5cGx2ZHI4MHI5ZnU4anEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/77rvjVcaJr1BgKSXtR/giphy.gif" width ="500" />
 </div>
-![Profile Views](https://camo.githubusercontent.com/2aec1be7f242234bdcc2a3cba0dbe64988c2970e31380a901ed4b86687dfe1cc/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4174686178762f636f756e742e7376673f)
+![Profile Views](https://camo.githubusercontent.com/?username=Debugger-ops&theme=dark&hide_border=false/2aec1be7f242234bdcc2a3cba0dbe64988c2970e31380a901ed4b86687dfe1cc/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4174686178762f636f756e742e7376673f)
 
 
 ## 🚀 About Me
